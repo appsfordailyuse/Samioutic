@@ -7,7 +7,7 @@
 
 ## Admin Access
 URL: `samioutic.com/admin.html`
-Default login: `admin` / `samioutic2026`
+Default login: `**""*"` / `*******`
 ⚠️ Change password immediately after first login!
 
 ## Features
